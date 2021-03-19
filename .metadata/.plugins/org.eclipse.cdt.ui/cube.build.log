@@ -1,0 +1,6 @@
+15:13:49 **** Incremental Build of configuration Debug for project cube ****
+make -r all 
+make: Nothing to be done for `all'.
+
+15:13:49 Build Finished (took 250ms)
+

@@ -1,0 +1,99 @@
+!SESSION 2021-03-17 08:21:05.745 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_SG
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data @user.home/Documents/LPCXpresso_8.2.2_650/workspace
+
+!ENTRY org.eclipse.ui 4 4 2021-03-17 08:21:42.729
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2021-03-17 08:21:42.736
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator
+!SESSION 2021-03-17 08:28:13.467 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_SG
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data @user.home/Documents/LPCXpresso_8.2.2_650/workspace
+
+!ENTRY org.eclipse.ui 4 4 2021-03-17 08:28:20.771
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2021-03-17 08:28:20.777
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-17 09:11:39.335
+!MESSAGE Indexed 'LPC1769_CMSIS_MCU_blinky' (2 sources, 10 headers) in 0.507 sec: 1,441 declarations; 1,990 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-17 09:11:39.356
+!MESSAGE Indexed 'LPC1769_asm_basic' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-17 09:11:39.374
+!MESSAGE Indexed 'LPC1769_asm_blinky' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-17 09:11:39.423
+!MESSAGE Indexed 'LPC1769_plainC_blinky' (2 sources, 0 headers) in 0.029 sec: 148 declarations; 155 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-17 09:11:39.582
+!MESSAGE Indexed 'Lib_CMSISv1p30_LPC17xx' (2 sources, 7 headers) in 0.151 sec: 1,196 declarations; 2,084 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-17 09:11:39.998
+!MESSAGE Indexed 'Lib_EaBaseBoard' (13 sources, 28 headers) in 0.4 sec: 2,498 declarations; 5,079 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-17 09:11:40.608
+!MESSAGE Indexed 'Lib_MCU' (21 sources, 29 headers) in 0.59 sec: 3,943 declarations; 19,363 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2021-03-19 14:12:06.971 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_SG
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2021-03-19 14:12:44.870
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Duplicate id found: org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator
+
+!ENTRY org.eclipse.ui 4 4 2021-03-19 14:12:44.880
+!MESSAGE Plugin org.eclipse.cdt.ui, extension org.eclipse.ui.decorators, id org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator: Unknown extension tag found: decorator
+
+!ENTRY com.crt.advproject 4 0 2021-03-19 14:17:22.759
+!MESSAGE Found old-style linker script templates, but using Freemarker linker script templates. The generated linker script will NOT contain the modifications in the old-style template.
+
+!ENTRY com.crt.advproject 4 0 2021-03-19 14:17:43.220
+!MESSAGE Found old-style linker script templates, but using Freemarker linker script templates. The generated linker script will NOT contain the modifications in the old-style template.
+
+!ENTRY com.crt.log 1 0 2021-03-19 14:18:00.581
+!MESSAGE Drivers loaded in 5565 milliseconds
+
+!ENTRY com.crt.advproject 4 0 2021-03-19 14:20:26.812
+!MESSAGE Found old-style linker script templates, but using Freemarker linker script templates. The generated linker script will NOT contain the modifications in the old-style template.
+
+!ENTRY com.crt.advproject 4 0 2021-03-19 14:20:47.267
+!MESSAGE Found old-style linker script templates, but using Freemarker linker script templates. The generated linker script will NOT contain the modifications in the old-style template.
+
+!ENTRY com.crt.debugcommon 2 0 2021-03-19 14:20:52.486
+!MESSAGE All SWD targets are currently connected to other debug sessions.
+
+
+Press 'Cancel' to terminate this launch.
+
+!ENTRY com.crt.debugcommon 2 0 2021-03-19 14:21:25.919
+!MESSAGE All SWD targets are currently connected to other debug sessions.
+
+
+Press 'Cancel' to terminate this launch.
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-19 15:00:06.797
+!MESSAGE Indexed 'cube' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.crt.advproject 4 0 2021-03-19 15:07:27.788
+!MESSAGE Found old-style linker script templates, but using Freemarker linker script templates. The generated linker script will NOT contain the modifications in the old-style template.
+
+!ENTRY com.crt.advproject 4 0 2021-03-19 15:07:36.678
+!MESSAGE Found old-style linker script templates, but using Freemarker linker script templates. The generated linker script will NOT contain the modifications in the old-style template.
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-19 15:15:16.682
+!MESSAGE Indexed 'sqrt' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-03-19 16:17:12.366
+!MESSAGE The workspace will exit with unsaved changes in this session.
